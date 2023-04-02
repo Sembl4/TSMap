@@ -1,2 +1,2 @@
 # TSMap
-Thread safe map for C++20
+Simple thread safe map 
